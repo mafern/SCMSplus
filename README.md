@@ -1,5 +1,5 @@
 # SCMSplus
-Python code used in (add arxiv link when ready).
+Python code used in [arXiv:2004.13752](https://arxiv.org/abs/2004.13752), 'Cosmic Filaments from Cosmic Strings'
 
 
 Takes in an [MP-Gadget](https://github.com/sbird/MP-Gadget3) *PIG* snapshot and identifies filamentary structure in the DM halos. To use with a different input, threshold.py would need to be adjusted, however the other two steps could remain unchanged. Assumes the simulation box has periodic boundaries. The code is meant to run in the following order:
